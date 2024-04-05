@@ -1,0 +1,35 @@
+.background
+{
+background-color:blue;
+height:150vh;
+background-size:cover;
+}
+.img1
+{
+width=150;
+height=200;
+margin-left:250px:
+}
+.text1
+{
+font-family:"Bree Serif";
+color:grey;
+font-size:25px;
+text-align:center;
+margin-top:10px;
+}
+.align1
+{
+font-family:"Bree Serif";
+font-size:25px;
+color:black;
+text-align:center;
+margin-top:10px;
+}
+.ul
+{
+display:inline-block;
+text-align:left;
+margin-bottom:10px;
+}
+
